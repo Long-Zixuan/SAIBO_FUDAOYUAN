@@ -1,0 +1,158 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Long_\\source\\repos\\LeavePermitGenerateSVG2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1F719F45-CE32-49C6-85B2-570FD96DEBBC}|LeavePermitGenerate\\LeavePermitGenerate.csproj|c:\\users\\long_\\source\\repos\\leavepermitgeneratesvg2\\leavepermitgenerate\\editleavepermit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F719F45-CE32-49C6-85B2-570FD96DEBBC}|LeavePermitGenerate\\LeavePermitGenerate.csproj|solutionrelative:leavepermitgenerate\\editleavepermit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F719F45-CE32-49C6-85B2-570FD96DEBBC}|LeavePermitGenerate\\LeavePermitGenerate.csproj|C:\\Users\\Long_\\source\\repos\\LeavePermitGenerateSVG2\\leavepermitgenerate\\leavepermitdisplay.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F719F45-CE32-49C6-85B2-570FD96DEBBC}|LeavePermitGenerate\\LeavePermitGenerate.csproj|solutionrelative:leavepermitgenerate\\leavepermitdisplay.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|LeavePermitGenerate||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F719F45-CE32-49C6-85B2-570FD96DEBBC}|LeavePermitGenerate\\LeavePermitGenerate.csproj|C:\\Users\\Long_\\source\\repos\\LeavePermitGenerateSVG2\\leavepermitgenerate\\editleavepermit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1F719F45-CE32-49C6-85B2-570FD96DEBBC}|LeavePermitGenerate\\LeavePermitGenerate.csproj|solutionrelative:leavepermitgenerate\\editleavepermit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F719F45-CE32-49C6-85B2-570FD96DEBBC}|LeavePermitGenerate\\LeavePermitGenerate.csproj|C:\\Users\\Long_\\source\\repos\\LeavePermitGenerateSVG2\\leavepermitgenerate\\leavepermitdisplay.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1F719F45-CE32-49C6-85B2-570FD96DEBBC}|LeavePermitGenerate\\LeavePermitGenerate.csproj|solutionrelative:leavepermitgenerate\\leavepermitdisplay.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F719F45-CE32-49C6-85B2-570FD96DEBBC}|LeavePermitGenerate\\LeavePermitGenerate.csproj|C:\\Users\\Long_\\source\\repos\\LeavePermitGenerateSVG2\\leavepermitgenerate\\leavepermitdisplay.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F719F45-CE32-49C6-85B2-570FD96DEBBC}|LeavePermitGenerate\\LeavePermitGenerate.csproj|solutionrelative:leavepermitgenerate\\leavepermitdisplay.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F719F45-CE32-49C6-85B2-570FD96DEBBC}|LeavePermitGenerate\\LeavePermitGenerate.csproj|C:\\Users\\Long_\\source\\repos\\LeavePermitGenerateSVG2\\leavepermitgenerate\\editleavepermit.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F719F45-CE32-49C6-85B2-570FD96DEBBC}|LeavePermitGenerate\\LeavePermitGenerate.csproj|solutionrelative:leavepermitgenerate\\editleavepermit.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F719F45-CE32-49C6-85B2-570FD96DEBBC}|LeavePermitGenerate\\LeavePermitGenerate.csproj|C:\\Users\\Long_\\source\\repos\\LeavePermitGenerateSVG2\\leavepermitgenerate\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F719F45-CE32-49C6-85B2-570FD96DEBBC}|LeavePermitGenerate\\LeavePermitGenerate.csproj|solutionrelative:leavepermitgenerate\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F719F45-CE32-49C6-85B2-570FD96DEBBC}|LeavePermitGenerate\\LeavePermitGenerate.csproj|c:\\users\\long_\\source\\repos\\leavepermitgeneratesvg2\\leavepermitgenerate\\||{B270807C-D8C6-49EB-8EBE-8E8D566637A1}|5e9a8ac2-4f34-4521-858f-4c248ba31532"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EditLeavePermit.cs [\u8BBE\u8BA1]",
+              "DocumentMoniker": "C:\\Users\\Long_\\source\\repos\\LeavePermitGenerateSVG2\\LeavePermitGenerate\\EditLeavePermit.cs",
+              "RelativeDocumentMoniker": "LeavePermitGenerate\\EditLeavePermit.cs",
+              "ToolTip": "C:\\Users\\Long_\\source\\repos\\LeavePermitGenerateSVG2\\LeavePermitGenerate\\EditLeavePermit.cs [\u8BBE\u8BA1]",
+              "RelativeToolTip": "LeavePermitGenerate\\EditLeavePermit.cs [\u8BBE\u8BA1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-27T05:48:57.548Z",
+              "EditorCaption": " [\u8BBE\u8BA1]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LeavePermitGenerate",
+              "DocumentMoniker": "C:\\Users\\Long_\\source\\repos\\LeavePermitGenerateSVG2\\LeavePermitGenerate\\LeavePermitGenerate.csproj",
+              "RelativeDocumentMoniker": "LeavePermitGenerate\\LeavePermitGenerate.csproj",
+              "ToolTip": "C:\\Users\\Long_\\source\\repos\\LeavePermitGenerateSVG2\\LeavePermitGenerate\\LeavePermitGenerate.csproj",
+              "RelativeToolTip": "LeavePermitGenerate\\LeavePermitGenerate.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-11-27T07:53:49.9Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LeavePermitDisplay.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Long_\\source\\repos\\LeavePermitGenerateSVG2\\LeavePermitGenerate\\LeavePermitDisplay.Designer.cs",
+              "RelativeDocumentMoniker": "LeavePermitGenerate\\LeavePermitDisplay.Designer.cs",
+              "ToolTip": "C:\\Users\\Long_\\source\\repos\\LeavePermitGenerateSVG2\\LeavePermitGenerate\\LeavePermitDisplay.Designer.cs",
+              "RelativeToolTip": "LeavePermitGenerate\\LeavePermitDisplay.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-27T07:15:23.013Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EditLeavePermit.cs",
+              "DocumentMoniker": "C:\\Users\\Long_\\source\\repos\\LeavePermitGenerateSVG2\\LeavePermitGenerate\\EditLeavePermit.cs",
+              "RelativeDocumentMoniker": "LeavePermitGenerate\\EditLeavePermit.cs",
+              "ToolTip": "C:\\Users\\Long_\\source\\repos\\LeavePermitGenerateSVG2\\LeavePermitGenerate\\EditLeavePermit.cs",
+              "RelativeToolTip": "LeavePermitGenerate\\EditLeavePermit.cs",
+              "ViewState": "AgIAAKgAAAAAAAAAAAAIwLwAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-27T06:08:08.951Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "EditLeavePermit.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Long_\\source\\repos\\LeavePermitGenerateSVG2\\LeavePermitGenerate\\EditLeavePermit.Designer.cs",
+              "RelativeDocumentMoniker": "LeavePermitGenerate\\EditLeavePermit.Designer.cs",
+              "ToolTip": "C:\\Users\\Long_\\source\\repos\\LeavePermitGenerateSVG2\\LeavePermitGenerate\\EditLeavePermit.Designer.cs",
+              "RelativeToolTip": "LeavePermitGenerate\\EditLeavePermit.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-27T05:51:12.966Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "LeavePermitDisplay.cs",
+              "DocumentMoniker": "C:\\Users\\Long_\\source\\repos\\LeavePermitGenerateSVG2\\LeavePermitGenerate\\LeavePermitDisplay.cs",
+              "RelativeDocumentMoniker": "LeavePermitGenerate\\LeavePermitDisplay.cs",
+              "ToolTip": "C:\\Users\\Long_\\source\\repos\\LeavePermitGenerateSVG2\\LeavePermitGenerate\\LeavePermitDisplay.cs",
+              "RelativeToolTip": "LeavePermitGenerate\\LeavePermitDisplay.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAAIAAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-27T05:53:51.117Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "LeavePermitDisplay.cs [\u8BBE\u8BA1]",
+              "DocumentMoniker": "C:\\Users\\Long_\\source\\repos\\LeavePermitGenerateSVG2\\LeavePermitGenerate\\LeavePermitDisplay.cs",
+              "RelativeDocumentMoniker": "LeavePermitGenerate\\LeavePermitDisplay.cs",
+              "ToolTip": "C:\\Users\\Long_\\source\\repos\\LeavePermitGenerateSVG2\\LeavePermitGenerate\\LeavePermitDisplay.cs [\u8BBE\u8BA1]",
+              "RelativeToolTip": "LeavePermitGenerate\\LeavePermitDisplay.cs [\u8BBE\u8BA1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-27T05:51:31.006Z",
+              "EditorCaption": " [\u8BBE\u8BA1]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Long_\\source\\repos\\LeavePermitGenerateSVG2\\LeavePermitGenerate\\Program.cs",
+              "RelativeDocumentMoniker": "LeavePermitGenerate\\Program.cs",
+              "ToolTip": "C:\\Users\\Long_\\source\\repos\\LeavePermitGenerateSVG2\\LeavePermitGenerate\\Program.cs",
+              "RelativeToolTip": "LeavePermitGenerate\\Program.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAtwBIAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-27T05:50:37.185Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

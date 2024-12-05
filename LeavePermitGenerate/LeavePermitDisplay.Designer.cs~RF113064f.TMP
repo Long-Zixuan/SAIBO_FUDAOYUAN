@@ -1,0 +1,157 @@
+﻿namespace LeavePermitGenerate
+{
+    partial class LeavePermitDisplay
+    {
+        /// <summary>
+        /// Required designer variable.
+        /// </summary>
+        private System.ComponentModel.IContainer components = null;
+
+        /// <summary>
+        /// Clean up any resources being used.
+        /// </summary>
+        /// <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        protected override void Dispose(bool disposing)
+        {
+            if (disposing && (components != null))
+            {
+                components.Dispose();
+            }
+            base.Dispose(disposing);
+        }
+
+        #region Windows Form Designer generated code
+
+        /// <summary>
+        /// Required method for Designer support - do not modify
+        /// the contents of this method with the code editor.
+        /// </summary>
+        private void InitializeComponent()
+        {
+            this.Name = new System.Windows.Forms.Label();
+            this.qingjia_leixing = new System.Windows.Forms.Label();
+            this.qingjia_shijian = new System.Windows.Forms.Label();
+            this.faqi_shijian = new System.Windows.Forms.Label();
+            this.qingjia_yuanyin = new System.Windows.Forms.Label();
+            this.faqi_weizhi = new System.Windows.Forms.Label();
+            this.fujian = new System.Windows.Forms.PictureBox();
+            ((System.ComponentModel.ISupportInitialize)(this.fujian)).BeginInit();
+            this.SuspendLayout();
+            // 
+            // Name
+            // 
+            this.Name.AutoSize = true;
+            this.Name.BackColor = System.Drawing.Color.Transparent;
+            this.Name.Font = new System.Drawing.Font("微软雅黑", 10.5F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(134)));
+            this.Name.Location = new System.Drawing.Point(101, 246);
+            this.Name.Name = "Name";
+            this.Name.Size = new System.Drawing.Size(97, 28);
+            this.Name.TabIndex = 0;
+            this.Name.Text = "LoongLy";
+            this.Name.Click += new System.EventHandler(this.Name_Click);
+            // 
+            // qingjia_leixing
+            // 
+            this.qingjia_leixing.AutoSize = true;
+            this.qingjia_leixing.BackColor = System.Drawing.Color.Transparent;
+            this.qingjia_leixing.Font = new System.Drawing.Font("微软雅黑", 10.5F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(134)));
+            this.qingjia_leixing.Location = new System.Drawing.Point(101, 194);
+            this.qingjia_leixing.Name = "qingjia_leixing";
+            this.qingjia_leixing.Size = new System.Drawing.Size(54, 28);
+            this.qingjia_leixing.TabIndex = 1;
+            this.qingjia_leixing.Text = "事假";
+            this.qingjia_leixing.Click += new System.EventHandler(this.qingjia_leixing_Click);
+            // 
+            // qingjia_shijian
+            // 
+            this.qingjia_shijian.AutoSize = true;
+            this.qingjia_shijian.BackColor = System.Drawing.Color.Transparent;
+            this.qingjia_shijian.Font = new System.Drawing.Font("微软雅黑", 7.5F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(134)));
+            this.qingjia_shijian.Location = new System.Drawing.Point(92, 374);
+            this.qingjia_shijian.Name = "qingjia_shijian";
+            this.qingjia_shijian.Size = new System.Drawing.Size(73, 20);
+            this.qingjia_shijian.TabIndex = 2;
+            this.qingjia_shijian.Text = " 请假时间";
+            this.qingjia_shijian.Click += new System.EventHandler(this.qingjia_shijian_Click);
+            // 
+            // faqi_shijian
+            // 
+            this.faqi_shijian.AutoSize = true;
+            this.faqi_shijian.BackColor = System.Drawing.Color.Transparent;
+            this.faqi_shijian.Font = new System.Drawing.Font("微软雅黑", 7.5F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(134)));
+            this.faqi_shijian.Location = new System.Drawing.Point(92, 408);
+            this.faqi_shijian.Name = "faqi_shijian";
+            this.faqi_shijian.Size = new System.Drawing.Size(73, 20);
+            this.faqi_shijian.TabIndex = 3;
+            this.faqi_shijian.Text = " 发起时间";
+            this.faqi_shijian.Click += new System.EventHandler(this.faqi_shijian_Click);
+            // 
+            // qingjia_yuanyin
+            // 
+            this.qingjia_yuanyin.AutoSize = true;
+            this.qingjia_yuanyin.BackColor = System.Drawing.Color.Transparent;
+            this.qingjia_yuanyin.Font = new System.Drawing.Font("微软雅黑", 7.5F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(134)));
+            this.qingjia_yuanyin.Location = new System.Drawing.Point(92, 446);
+            this.qingjia_yuanyin.Name = "qingjia_yuanyin";
+            this.qingjia_yuanyin.Size = new System.Drawing.Size(73, 20);
+            this.qingjia_yuanyin.TabIndex = 4;
+            this.qingjia_yuanyin.Text = " 请假原因";
+            this.qingjia_yuanyin.Click += new System.EventHandler(this.qingjia_yuanyin_Click);
+            // 
+            // faqi_weizhi
+            // 
+            this.faqi_weizhi.AutoSize = true;
+            this.faqi_weizhi.BackColor = System.Drawing.Color.Transparent;
+            this.faqi_weizhi.Font = new System.Drawing.Font("微软雅黑", 7.5F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(134)));
+            this.faqi_weizhi.Location = new System.Drawing.Point(92, 484);
+            this.faqi_weizhi.Name = "faqi_weizhi";
+            this.faqi_weizhi.Size = new System.Drawing.Size(73, 20);
+            this.faqi_weizhi.TabIndex = 5;
+            this.faqi_weizhi.Text = " 发起位置";
+            this.faqi_weizhi.Click += new System.EventHandler(this.faqi_weizhi_Click);
+            // 
+            // fujian
+            // 
+            this.fujian.Location = new System.Drawing.Point(22, 575);
+            this.fujian.Name = "fujian";
+            this.fujian.Size = new System.Drawing.Size(300, 258);
+            this.fujian.TabIndex = 6;
+            this.fujian.TabStop = false;
+            this.fujian.Click += new System.EventHandler(this.fujian_Click);
+            // 
+            // LeavePermitDisplay
+            // 
+            this.AutoScaleDimensions = new System.Drawing.SizeF(9F, 18F);
+            this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
+            this.BackgroundImage = global::LeavePermitGenerate.Properties.Resources.LeavePermitBkground2;
+            this.BackgroundImageLayout = System.Windows.Forms.ImageLayout.None;
+            this.ClientSize = new System.Drawing.Size(496, 1001);
+            this.Controls.Add(this.fujian);
+            this.Controls.Add(this.faqi_weizhi);
+            this.Controls.Add(this.qingjia_yuanyin);
+            this.Controls.Add(this.faqi_shijian);
+            this.Controls.Add(this.qingjia_shijian);
+            this.Controls.Add(this.qingjia_leixing);
+            this.Controls.Add(this.Name);
+            this.MaximizeBox = false;
+            this.MinimizeBox = false;
+            //this.Name = "LeavePermitDisplay";
+            this.Text = "LeavePermitDisplay";
+            this.Load += new System.EventHandler(this.LeavePermitDisplay_Load);
+            ((System.ComponentModel.ISupportInitialize)(this.fujian)).EndInit();
+            this.ResumeLayout(false);
+            this.PerformLayout();
+
+        }
+
+        #endregion
+
+        private System.Windows.Forms.Label Name;
+        private System.Windows.Forms.Label qingjia_leixing;
+        private System.Windows.Forms.Label qingjia_shijian;
+        private System.Windows.Forms.Label faqi_shijian;
+        private System.Windows.Forms.Label qingjia_yuanyin;
+        private System.Windows.Forms.Label faqi_weizhi;
+        private System.Windows.Forms.PictureBox fujian;
+    }
+}

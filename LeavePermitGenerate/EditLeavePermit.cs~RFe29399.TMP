@@ -1,0 +1,89 @@
+﻿using System;
+using System.Collections.Generic;
+using System.ComponentModel;
+using System.Data;
+using System.Drawing;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+using System.Windows.Forms;
+
+namespace LeavePermitGenerate
+{
+    public partial class EditLeavePermit : Form
+    {
+        public EditLeavePermit()
+        {
+            InitializeComponent();
+        }
+
+        private void label6_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void comboBox1_SelectedIndexChanged(object sender, EventArgs e)
+        {
+            LeavePermitDisplay.GetInstance.ExchangeMSG("qingjia_leixing", comboBox1.Text);
+        }
+
+        private void textBox1_TextChanged(object sender, EventArgs e)
+        {
+            LeavePermitDisplay.GetInstance.ExchangeMSG("mingzi", textBox1.Text);
+        }
+
+        private void textBox2_TextChanged(object sender, EventArgs e)
+        {
+            LeavePermitDisplay.GetInstance.ExchangeMSG("xuehao", textBox2.Text);
+        }
+
+        private void textBox3_TextChanged(object sender, EventArgs e)
+        {
+            LeavePermitDisplay.GetInstance.ExchangeMSG("qingjia_riqi", textBox3.Text);
+        }
+
+        private void textBox6_TextChanged(object sender, EventArgs e)
+        {
+            LeavePermitDisplay.GetInstance.ExchangeMSG("qingjia_shijian", textBox6.Text);
+        }
+
+        private void textBox4_TextChanged(object sender, EventArgs e)
+        {
+            LeavePermitDisplay.GetInstance.ExchangeMSG("kaishi_shijian", textBox4.Text);
+        }
+
+        private void textBox5_TextChanged(object sender, EventArgs e)
+        {
+            LeavePermitDisplay.GetInstance.ExchangeMSG("jieshu_shijian", textBox5.Text);
+        }
+
+        private void textBox7_TextChanged(object sender, EventArgs e)
+        {
+            LeavePermitDisplay.GetInstance.ExchangeMSG("qingjia_shichang", textBox7.Text);
+        }
+
+        private void textBox8_TextChanged(object sender, EventArgs e)
+        {
+            LeavePermitDisplay.GetInstance.ExchangeMSG("qingjia_yuanyin", textBox8.Text);
+        }
+
+        private void textBox9_TextChanged(object sender, EventArgs e)
+        {
+            LeavePermitDisplay.GetInstance.ExchangeMSG("faqiweizhi", textBox9.Text);
+        }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            OpenFileDialog dialog = new OpenFileDialog();
+            dialog.Multiselect = true;//该值确定是否可以选择多个文件
+            dialog.Title = "请选择文件夹";
+            dialog.Filter = "所有文件(*.*)|*.*";
+            string filePath;
+            if (dialog.ShowDialog() == System.Windows.Forms.DialogResult.OK)
+            {
+                 filePath = dialog.FileName;
+            }
+            LeavePermitDisplay.GetInstance.ExchangeMSG("fujian",filePath);
+        }
+    }
+}
