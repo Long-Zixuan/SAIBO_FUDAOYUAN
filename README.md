@@ -1,4 +1,4 @@
-![LoongLy Software]](https://github.com/Long-Zixuan/SAIBO_FUDAOYUAN/blob/master/Img/image-20241205113941257.png)
+![LoongLy Software](https://github.com/Long-Zixuan/SAIBO_FUDAOYUAN/blob/master/Img/image-20241205113941257.png)
 
 # 假条生成器（赛博辅导员）
 
